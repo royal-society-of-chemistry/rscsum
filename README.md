@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is the repository containing the RSCsum corpus stratified split as was published at the SIGNLL Conference on Computational Natural Language Learning (CoNLL). 
 
-### What is this repository for? ###
+Yifan Chen, Tamara Polajnar, Colin Batchelor and Simone Teufel. A Corpus of Very Short Scientific Summaries. CoNLL 2020. 2020
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Please cite the above paper when using the corpus.
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+The csv files contain the list of document IDs, journal IDs, and the year, which can enable you to produce different splits of the data. 
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
